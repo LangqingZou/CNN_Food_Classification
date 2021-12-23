@@ -17,7 +17,7 @@ Digits stand for id of each photos.<br><br>
 openCV2, pytorch needed. <br><br>
 Recommend gpu(cuda) and run on Colab. 
 
-**Every time I run it on Colab takes 20 - 30 mins**
+**Every time it takes 20 - 30 mins to run on Colab**
 
 # Discussion
 
